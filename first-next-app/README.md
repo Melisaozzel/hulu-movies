@@ -1,7 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+## Live Preview
 https://hulu-app-nine.vercel.app/
+![image](https://user-images.githubusercontent.com/56073734/168182478-20836b37-748b-43c1-81dc-1ef58f39ccd2.png)
+
+
 First, run the development server:
 
 ```bash
@@ -9,7 +13,7 @@ npm run dev
 # or
 yarn dev
 ```
-##API
+## API
 https://www.themoviedb.org/
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
